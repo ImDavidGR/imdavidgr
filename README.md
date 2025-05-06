@@ -27,8 +27,8 @@ Soy desarrollador backend con 4 años de experiencia. Me apasiona diseñar y opt
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ davidgarciaramirez001@gmail.com  
-- [Twitter](https://twitter.com/davydgr01) · [LinkedIn](https://linkedin.com/in/david-garcía-ramírez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davidgarciaramirez001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-garc%C3%ADa-ram%C3%ADrez-b908a6171/)
 
 ---
 
